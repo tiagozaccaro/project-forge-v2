@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "skill-installer": {
+      "source": "openai/skills",
+      "sourceType": "github",
+      "skillPath": "skills/.system/skill-installer/SKILL.md",
+      "computedHash": "53181a1921b67b6bc27bfa559603cf5ac07ba833db612ec4ec80bdf18341163d"
+    }
+  }
+}
